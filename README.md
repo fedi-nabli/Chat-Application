@@ -16,3 +16,14 @@ You need to have installed:
 - [Rust](https://www.rust-lang.org/tools/install) 
 
 If you want to or already have went through the hassle of installing Rust, you can ```git clone``` this repository, then ```cargo build --release```.
+
+## To run the app
+- ```cd server``` and run `cargo run`
+- ```cd client``` and run `cargo run`
+
+# Sreenshot
+<img src="./demo/running.png" />
+
+- To quit the client type ```:quit```
+
+<img src="./demo/quit.png" />
